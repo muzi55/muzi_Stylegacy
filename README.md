@@ -203,10 +203,10 @@ const addPost = () => {};
    
 - ![image](https://github.com/suminute/Stylegacy/assets/92218638/de7d3f9a-63e8-453e-af2c-7cf03aa03097)
 
-5. 게시물 상세페이지
+4. 게시물 상세페이지
 
 - ![image](https://github.com/suminute/Stylegacy/assets/92218638/5ec29eb8-bd0c-4886-ac8e-f03b82026f05)
 
-6. 마이페이지
+5. 마이페이지
 
 - ![image](https://github.com/suminute/Stylegacy/assets/92218638/974d8fe5-180a-493e-ba2b-b78ce137785f)
